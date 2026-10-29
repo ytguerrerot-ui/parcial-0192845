@@ -1,11 +1,11 @@
 
 /* 1. ESTILOS GENERALES */
 :root {
-    --fondo: #241c36;
+    --fondo: #31254d;
     --oscuro: #202020;
-    --rojo: #332d65;
-    --blanco: #403f3f;
-    --gris: #301f62;
+    --rojo: #352e74;
+    --blanco: #b2aaaa;
+    --gris: #716f78;
 }
 
 * {
